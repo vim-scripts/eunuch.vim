@@ -9,6 +9,6 @@ Vim sugar for the UNIX shell commands that need it the most.  Commands include:
 * :Find: Run `find` and load the results into the quickfix list.
 * :Locate: Run `locate` and load the results into the quickfix list.
 * :SudoWrite: Write a privileged file with sudo.
-* :W: Write every open window.  Handy for kicking off test autorunners.
+* :Wall: Write every open window.  Handy for kicking off test autorunners.
 
 https://github.com/tpope/vim-eunuch
